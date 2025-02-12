@@ -8,7 +8,7 @@
 
 <h3 align="center"> 학습 내용 정리 Notion</h3>
 <div align="center">
-  <a href=["https://roasted-wilderness-f77.notion.site/Developer-68c0cf16148a469b8e38f193658cf09d?pvs=4"]>
+  <a href="https://roasted-wilderness-f77.notion.site/Developer-68c0cf16148a469b8e38f193658cf09d?pvs=4">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
   </a>
 </div>
